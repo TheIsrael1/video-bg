@@ -1,2 +1,2 @@
 # video-bg
-video background with  customized controls
+landing page  with video background  customized controls
